@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Cteam() {
     return (
-      <div className="bg-white py-24 max-sm:max-md: py-32">
+      <div className="bg-white py-24 max-sm:max-md: py-28">
       <div className="mx-auto grid max-w-7xl gap-x-8 gap-y-20 px-6 max-lg:px-8 xl:grid-cols-3" >
         <div className="max-w-2xl">
           <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Meet our leadership</h2>
@@ -41,7 +41,7 @@ export default function Cteam() {
               <Image className="h-16 w-16 rounded-full" data-aos="flip-left" src="https://www.peruri.co.id/images/tentang_kami/direksi/Dwina%20Septiani%20Wijaya-20210926135414.jpg" width={150} height={108} alt="direktur keuangan"/>
               <div>
                 <h3 className="text-base font-semibold leading-7 tracking-tight text-gray-900">Nurdiana Darus</h3>
-                <p className="text-sm font-semibold leading-6 text-indigo-600">Direktu Keuangan</p>
+                <p className="text-sm font-semibold leading-6 text-indigo-600">Direktur Keuangan</p>
               </div>
             </div>
           </li>
