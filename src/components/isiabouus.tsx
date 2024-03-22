@@ -7,7 +7,7 @@ export default function IsiAboutUs() {
 
       <div id="slide1" className="carousel-item relative w-full">
         <Image
-          src="https://images.unsplash.com/photo-1610912591861-4ea5fae8f804?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJ1aWxkaW5nJTIwb2ZmaWNlfGVufDB8fDB8fHww"
+          src="/photo-1610912591861-4ea5fae8f804.webp"
           width={500}
           height={303}
           alt="gambar1"
