@@ -16,7 +16,7 @@ export default function Argument() {
                 alt="mastersyifu"
                 src="https://images4.alphacoders.com/134/thumb-440-1344938.webp"
                 width={150}
-                height={84}
+                height={150}
               />
             </div>
           </div>
@@ -35,7 +35,7 @@ export default function Argument() {
                 alt="tamakonobi"
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdo0m6rtobe7ZAdYvvO_wy18xYagyHnqiytw&usqp=CAU"
                 width={150}
-                height={200}
+                height={150}
               />
             </div>
           </div>
