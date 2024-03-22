@@ -24,6 +24,7 @@ export default function CardVideo() {
               height="250" // Adjust as needed
               src={`https://www.youtube.com/embed/${video.videoUrl.split('?v=')[1]}`} // Embed URL
               title={video.title}
+              loading='lazy'
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen

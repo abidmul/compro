@@ -33,9 +33,9 @@ export default function Timeline() {
               >
                 <time className="font-mono italic">2019</time>
                 <div className="text-lg font-black">KitchenAid</div>
-                Didirikan pada tahun 2019 di Bandung oleh Muhammad Abid Mulawa.{" "}
+                Didirikan pada tahun 2019 di Bandung oleh Muhammad Abid Mulawa.
                 <br /> KitchenAid awalnya dikenal dengan mixer stand-nya yang
-                ikonik. <br /> Perusahaan ini kemudian berkembang menjadi produsen{" "}
+                ikonik. <br /> Perusahaan ini kemudian berkembang menjadi produsen
                 <br /> berbagai peralatan dapur, seperti blender, pemanggang roti,
                 dan lainnya.
               </div>
@@ -97,7 +97,7 @@ export default function Timeline() {
                 <time className="font-mono italic">2024</time>
                 <div className="text-lg font-black">Ekspansi Keluar Kota</div>
                 KitMul berekspansi keluar Bandung dan kota pertama yaitu DKi
-                Jakarta <br /> dan Juga tahun pertama untuk website Perusahaan{" "}
+                Jakarta <br /> dan Juga tahun pertama untuk website Perusahaan
                 <br /> nya yang akan diluncurkan bulan juni mendatang.
               </div>
             </li>
