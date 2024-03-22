@@ -4,11 +4,12 @@ import Link from "next/link";
 export default function IsiAboutUs() {
   return (
     <div className="carousel w-full h-72">
+
       <div id="slide1" className="carousel-item relative w-full">
         <Image
-          src="https://images.pexels.com/photos/260931/pexels-photo-260931.jpeg?auto=compress&cs=tinysrgb&w=600"
-          width={375}
-          height={277}
+          src="https://images.unsplash.com/photo-1610912591861-4ea5fae8f804?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGJ1aWxkaW5nJTIwb2ZmaWNlfGVufDB8fDB8fHww"
+          width={500}
+          height={303}
           alt="gambar1"
           className="w-full"
         />
