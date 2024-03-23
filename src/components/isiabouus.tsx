@@ -17,7 +17,7 @@ export default function IsiAboutUs() {
           <Link href="#slide4" className="btn btn-circle">
             ❮
           </Link>
-        <h1 className="text-5xl text-white font-bold">ABOUT US</h1>
+        <h1 className=" max-sm:text-3xl max-md:text-4xl lg:text-5xl text-white font-bold">ABOUT US</h1>
           <Link href="#slide2" className="btn btn-circle">
             ❯
           </Link>
@@ -35,7 +35,7 @@ export default function IsiAboutUs() {
           <Link href="#slide1" className="btn btn-circle">
             ❮
           </Link>
-          <h1 className="text-5xl text-black font-bold">ABOUT US</h1>
+          <h1 className="max-sm:text-3xl max-md:text-4xl lg:text-5xl text-black font-bold">ABOUT US</h1>
           <Link href="#slide3" className="btn btn-circle">
             ❯
           </Link>
@@ -53,7 +53,7 @@ export default function IsiAboutUs() {
           <Link href="#slide2" className="btn btn-circle">
             ❮
           </Link>
-          <h1 className="text-5xl text-white font-bold">ABOUT US</h1>
+          <h1 className="max-sm:text-3xl max-md:text-4xl lg:text-5xl text-white font-bold">ABOUT US</h1>
           <Link href="#slide4" className="btn btn-circle">
             ❯
           </Link>
@@ -71,7 +71,7 @@ export default function IsiAboutUs() {
           <Link href="#slide3" className="btn btn-circle">
             ❮
           </Link>
-          <h1 className="text-5xl text-black font-bold">ABOUT US</h1>
+          <h1 className="max-sm:text-3xl max-md:text-4xl lg:text-5xl text-black font-bold">ABOUT US</h1>
           <Link href="#slide1" className="btn btn-circle">
             ❯
           </Link>
